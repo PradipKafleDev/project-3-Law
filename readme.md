@@ -1,3 +1,3 @@
 # Project 3
 
-- Live Link
+- [Live link] (https://project-3-law-hompage.netlify.app/)
